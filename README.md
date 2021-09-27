@@ -3,9 +3,9 @@
 hi, im Ruairí Grant, an Electronic and Computer Engineering student at Trinity Collage Dublin. As well as collage projects i am working on some c and python projects that interest me.
 
 Apart from programming i am also:
-* Interested in investing which has crossed over to programming here.
+* Interested in investing and personal finance.
 * Sailing and any other watersport.
-* Languages - passonate about irish and currently learning German
+* Languages - passonate about irish language and currently learning German
 
 **you can contact me on**
 - ruairi.j.grant@gmail.com
