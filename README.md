@@ -1,11 +1,32 @@
 ### Hi there 👋
 
-hi, im Ruairí Grant, an Electronic and Computer Engineering student at Trinity Collage Dublin. As well as collage projects i am working on some c and python projects that interest me.
+Hi, I am an Electronic and Computer Engineering student at Trinity Collage Dublin. As well as collage projects i am working on some C and python projects that interest me.
+
+**GUI applications**
+
+* [Python for finance](https://github.com/Ruairi-Grant/Python-for-finance-workspace)
+* [RC Buggy](https://github.com/Ruairi-Grant/RC-Buggy-Project)
+
+**C and Datastructures**
+
+* [Datastructures](https://github.com/Ruairi-Grant/33D05)
+
+**Python**
+
+* [Python for finance](https://github.com/Ruairi-Grant/Python-for-finance-workspace)
+* [Peer to Peer networking](https://github.com/Ruairi-Grant/Computer-Networks-Project-2)
+
+**Assembly**
+
+* [Pi Pico programming](https://github.com/Ruairi-Grant/Microprocessors-2)
+
+<br />
 
 Apart from programming i am also interested in:
 * Investing and personal finance.
 * Sailing and any other watersport.
 * Languages - passonate about irish language and currently learning German
+
 
 **you can contact me on**
 - ruairi.j.grant@gmail.com
