@@ -4,7 +4,7 @@ Hi, I am an Electronic and Computer Engineering student at Trinity Collage Dubli
 
 **GUI applications**
 
-* [Python for finance](https://github.com/Ruairi-Grant/Python-for-finance-workspace)
+
 * [RC Buggy](https://github.com/Ruairi-Grant/RC-Buggy-Project)
 
 **C and Datastructures**
@@ -13,7 +13,6 @@ Hi, I am an Electronic and Computer Engineering student at Trinity Collage Dubli
 
 **Python**
 
-* [Python for finance](https://github.com/Ruairi-Grant/Python-for-finance-workspace)
 * [Peer to Peer networking](https://github.com/Ruairi-Grant/Computer-Networks-Project-2)
 
 **Assembly**
